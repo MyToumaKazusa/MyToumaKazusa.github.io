@@ -33,7 +33,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Apr 2024 - Sep 2024：** HKSUT(GZ) (Research Assistant) -->
 - **Sep 2021 - June 2025:** Harbin Institute of Technology (BSc, AI)
 
+## Awards
 
+- People’s scholarship 2021-2024
+- National Level, College student innovation and entrepreneurship project Jul. 2023
+- 2nd Prize, National College students Electronic Design Competition Jul. 2023
+- 3rd Prize, ”Tong Xin Cup” Heilongjiang Province college student programming competition Jul. 2022
 
 ## News and Update
 

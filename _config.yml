@@ -36,8 +36,8 @@ links:
     url: /
   - title: Pub&Exp
     url: /publications/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
   - title: Portfolio
     url: /hobbies/
   # - title: Blogs
