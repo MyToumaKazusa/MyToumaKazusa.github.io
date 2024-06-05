@@ -37,13 +37,17 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
-- **Jun 2024 :**  I create this website ！**.
+- **Jun 2024 :**  I create this website ！.
 
 
-<a href="https://www.easycounter.com/">
+<!-- <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sony0328"
 border="0" alt="Web Site Hit Counters"></a>
-<br><a href="https://www.easycounter.com/">Hit Counters  since Oct 2023</a>
+<br><a href="https://www.easycounter.com/">Hit Counters  since Jun 2024</a> -->
 
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?liusihao"
+border="0" alt="Website Hit Counters"></a>
+<br><a href="https://www.easycounter.com/">Hit Counters  since Jun 2024</a>
 
 
