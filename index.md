@@ -14,8 +14,7 @@ layout: page
 
 Here is **Sihao Liu (刘思颢)**.( You can call me Daniel. )
 
-I am a junior student major in the Artificial Intelligence([**School of Future Technology**](https://future.hit.edu.cn/)), [**Harbin Institute of Technology**](
-http://www.hit.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://homepage.hit.edu.cn/xiaopengfan) and Prof. [**Mingyi Liu**](https://homepage.hit.edu.cn/lmy).
+I am a junior student major in the Artificial Intelligence([**School of Future Technology**](https://future.hit.edu.cn/)), [**Harbin Institute of Technology**](http://www.hit.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://homepage.hit.edu.cn/xiaopengfan) and Prof. [**Mingyi Liu**](https://homepage.hit.edu.cn/lmy).
 
 ## Research Interests
 
