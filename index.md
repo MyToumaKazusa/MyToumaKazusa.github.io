@@ -37,7 +37,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
-- **Jun 2024 :**  I create this website ！.
+- **Jun 2024 :**  I create this website ！
 
 
 <!-- <a href="https://www.easycounter.com/">
