@@ -46,61 +46,69 @@ Lastest Update: 5th Jun 2024.
 
 #  RESEARCH EXPERIENCES
 
-## Deep Interdisciplinary Intelligence Lab
+## Research Center of Intelligent Computing for Enterprises & Services (ICES)
 
-2024.4 --- Present
+2024.1 --- Present
 
-RA, Advisor: Prof.Yutao Yue ----HKUST(GZ)@AI Thrust
+Intern, Advisor: Prof.Mingyi Liu, Prof.Zhongjie  Wang ----Harbin Institute of Technology(HIT)
 
-- XAI
-- LLM
-- VLM
-- AI4Science/XAI4Science
+Research on recommendation algorithm
+- Designed a service recommendation algorithm using graph structure learning
+- Expected to be published as an independent first author in ICSOC 2024 (Top conference in the field of
+service computing)
+- Optimized 45% in NDCG@10 and 15% in Recall@10
 
-## Privacy-Awareness, Responsibility and Trustworthy (PART) Lab
+## Intelligent Interface and Human-Computer Interaction Research Center
 
-2023.4 --- 2024.3
+2022.9 --- Present
 
-Visting Student, Advisor: [Prof. Di Wang](https://cemse.kaust.edu.sa/cs/people/person/di-wang) ----KAUST
+Intern, Advisor: Prof. Xiaopeng Fan ----HIT
 
-- XAI
-- LLM
+Virtual reality related projects
+- Constructed a 3d virtual campus through scanning and reconstruction
+- Made a spherical projection device and augmented reality glasses
+- Subprojects under national key projects
 
-## Shandong University Intelligent Medical Information Processing Research Center
 
-2022.8 --- 2023.4
+## Artificial Intelligence & Image Analysis (AIIA) Lab
 
-Research Intern, Advisor: [Zhi Liu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---Shandong University
+2023.7 --- 2024.1
 
-- Bioinformatics
-- Multimodal
-- AI4Science
+Intern, Advisor: Prof. Kui Jiang ----HIT
+
+Research on 3D Reconstruction
+- Research on NeRF and 3d Gauss was done
+- Participate in group meetings to report and communicate
 
   
-## Shandong University Signal Processing and Artificial Intelligence Research Institute
+## Harbin Institute of Technology(HIT)
 
-2023.3 --- 2023.6
+2022.6 --- 2023.7
 
-Research Intern, Advisor: [Prof. Yang Yang](https://faculty.sdu.edu.cn/yangyang/zh_CN/index/11881/list/index.htm) ---Shandong University
+Programmer, Advisor: Prof. Min Lv ----HIT
 
-- Car detection
+Smart wearable fabric
+- Designed a smart fabric that can actually monitor ECG, activity and other signals
+- Be approved as a national innovation training project
 
-## McMaster University
 
-2022.10 --- 2023.2
+## Programming competition school team
 
-Research Intern, Advisor: [Prof. Xiaolin Wu](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index/538797/list/index.htm) ---McMaster University, Canada
+2021.9 --- 2022.9
 
-- Domain generalization
-- Computer Vison
-- OOD
+Programmer, Advisor: Prof. Dalie Sun ----HIT
 
-## Human-Machine Intelligence System Research Center
+- Participated in CCPC-"Tong Xin Cup" Heilongjiang Province college student programming competition and won the third prize
+- Learned a lot of underlying algorithms
 
-2022.1 --- 2022.8
 
-Research Intern, Advisor: [Prof. Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/) ---Shandong University
+## Harbin Institute of Technology(HIT)
 
-- Vision and robotic arm control
+2021.9 --- 2022.9
+
+Leader of project team, Advisor: Prof. Dongjing Miao ---HIT
+
+- Modeling of underground Wells in Beijing by point cloud
+- Win the second prize
 
 
