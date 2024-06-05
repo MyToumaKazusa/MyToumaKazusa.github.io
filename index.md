@@ -14,7 +14,8 @@ layout: page
 
 Here is **Sihao Liu (刘思颢)**.( You can call me Daniel. )
 
-I am a junior student studying in the School of Artificial Intelligence([**Future Technology College**](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%B4%87%E6%96%B0%E5%AD%A6%E5%A0%82/20809738?fr=aladdin)), [**Harbin Institute of Technology**](https://www.sdu.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm) and Prof. [**Mingyi Liu**](https://faculty.sdu.edu.cn/liuzhi1/zh_CN/index.htm).
+I am a junior student major in the Artificial Intelligence([**School of Future Technology**](https://future.hit.edu.cn/)), [**Harbin Institute of Technology**](
+http://www.hit.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://homepage.hit.edu.cn/xiaopengfan) and Prof. [**Mingyi Liu**](https://homepage.hit.edu.cn/lmy).
 
 ## Research Interests
 
