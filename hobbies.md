@@ -5,10 +5,12 @@ title: Hobbies & pre-slides
 ---
 
 
-## Anime Figures and Dolls
-
 <div>
-<embed src="example.pdf" type="lsh-Portfolio/pdf" width="100%" height="600px" />
+<img src="/images/0.jpg">
+<img src="/images/1.jpg">
+<img src="/images/2.jpg">
+<img src="/images/3.jpg">
+<img src="/images/4.jpg">
 </div>
 
 <br>
