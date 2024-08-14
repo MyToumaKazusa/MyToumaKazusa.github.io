@@ -54,7 +54,7 @@ Intern, Advisor: Research Scientist.Yibo Yang ----King Abdullah University of Sc
 
 Research on online continual learning
 - To design an effective algorithm for online incremental learning
-- Plan to submit to CVPR 2024 (Top conference in the field of computer vision)
+- Plan to submit to CVPR 2025 (Top conference in the field of computer vision)
 
 ## Research Center of Intelligent Computing for Enterprises & Services (ICES)
 
