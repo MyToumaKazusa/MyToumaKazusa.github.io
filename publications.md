@@ -46,6 +46,16 @@ Lastest Update: 5th Jun 2024.
 
 #  RESEARCH EXPERIENCES
 
+## Image and Video Understanding Lab (IVUL)
+
+2024.6 --- Present
+
+Intern, Advisor: Research Scientist.Yibo Yang ----King Abdullah University of Science and Technology(KAUST)
+
+Research on online continual learning
+- To design an effective algorithm for online incremental learning
+- Plan to submit to CVPR 2024 (Top conference in the field of computer vision)
+
 ## Research Center of Intelligent Computing for Enterprises & Services (ICES)
 
 2024.1 --- Present
