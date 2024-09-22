@@ -30,10 +30,14 @@ Lastest Update: 5th Jun 2024.
 - Cross-domain car detection model with integrated convolutional block attention mechanism. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0262885623002081) <br>Haoxuan Xu†, **Songning Lai†** and Yang Yang~<br>
 **Accepted** in the journal **Image and Vision Computing** (JCR Q1(IF:4.7) CCF C). -->
 
+# Publications
+Lastest Update: 22nd Sept 2024
 
-## Under review paper
+## Conference Paper
 - GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning. <br>**Sihao Liu**, Mingyi Liu, Tianyu Jiang, Shuang Yu, Hanchuan Xu and Zhongjie Wang~<br>
-**Under Review** in the conference **International Conference on Service-Oriented Computing** (Top conference in serveice computing!)
+**Accepted** in the conference International Conference on Service-Oriented Computing (**ICSOC**  Top conference in serveice computing)
+## Under review paper
+
 
 <!-- ## Working paper
 - Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2024 -->
@@ -64,7 +68,7 @@ Intern, Advisor: Prof.Mingyi Liu, Prof.Zhongjie  Wang ----Harbin Institute of Te
 
 Research on recommendation algorithm
 - Designed a service recommendation algorithm using graph structure learning
-- Expected to be published as an independent first author in ICSOC 2024 (Top conference in the field of
+- One paper accepted as an independent first author in ICSOC 2024 (Top conference in the field of
 service computing)
 - Optimized 45% in NDCG@10 and 15% in Recall@10
 

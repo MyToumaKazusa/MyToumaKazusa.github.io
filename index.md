@@ -42,6 +42,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
+- **Sept 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is accepted by ICSOC 2024 (Top conference in service computing, 15%)
+- **Jul 2024 :**  I join CAMEL-AI as an intern! Adviser: Dr.Guohao Li
+- **Jun 2024 :**  I join KAUST as an intern! Adviser: Dr.Yibo Yang, Prof. Bernard Ghanem
 - **Jun 2024 :**  I create this website ！
 
 
