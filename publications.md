@@ -31,7 +31,7 @@ Lastest Update: 5th Jun 2024.
 **Accepted** in the journal **Image and Vision Computing** (JCR Q1(IF:4.7) CCF C). -->
 
 # Publications
-Lastest Update: 22nd Sept 2024
+Lastest Update: 27th Nov 2024
 
 ## Conference Paper
 - GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning. <br>**Sihao Liu**, Mingyi Liu, Tianyu Jiang, Shuang Yu, Hanchuan Xu and Zhongjie Wang~<br>

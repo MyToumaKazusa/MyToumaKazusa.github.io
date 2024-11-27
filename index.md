@@ -12,13 +12,15 @@ layout: page
 
 # About Me
 
-Here is **Sihao Liu (刘思颢)**.( You can call me Touma)
+Here is **Sihao Liu (刘思颢)**. (You can call me Touma)
 
 I am a junior student major in the Artificial Intelligence([**School of Future Technology**](https://future.hit.edu.cn/)), [**Harbin Institute of Technology**](http://www.hit.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://homepage.hit.edu.cn/xiaopengfan) and Prof. [**Mingyi Liu**](https://homepage.hit.edu.cn/lmy).
 
 ## Research Interests
 
-My main interest is in the practical problems of **Artificial Intelligence (AI)** and innovative technologies related to **Extended Reality (XR)**. I believe that deep learning can bring technological innovation to the rapid development of various industries in the future and XR technology will be the cornerstone of human life in the future. Based on this, I have studied related technologies including **Graph neural network, Service Recommendation, 3D Reconstruction and Virtual Reality**. I am committed to contributing to meaningful causes and benefits society by developing practical innovative solutions that combine deep learning techniques.
+Currently, my research interests are primarily focused on **Artificial Intelligence**. My research experience includes **Continual Learning, Large Language Models, 3D Reconstruction, Graph Neural Networks, and Recommendation**. I believe AI (though perhaps not limited to deep learning, xD) will be the most transformative technology of the 21st century, bringing revolutionary optimizations and creative breakthroughs to various industries. I am committed to advancing AI technologies and driving meaningful innovations for society. When I was 18, I believed that **XR** (Extended Reality) would be a crucial technology for the next stage of society———and I still do, though now from a more AI-centric perspective, xD. By the way, I self-taught many hardware technologies and built a pair of augmented reality glasses.
+
+I have a wide range of research interests in the field of AI. I believe exploring various areas before starting a PhD is both fascinating and challenging. This means I am willing to continuously learn about different directions, as long as they are interesting!
 
 Key Word: **Deep Learning**, **Continual Learning**, **LLM**, **GNN**, **XR**
 
@@ -26,7 +28,7 @@ Key Word: **Deep Learning**, **Continual Learning**, **LLM**, **GNN**, **XR**
 
 <!-- Prior to this, I have also been exposed to bioinformatics, multimodal sentiment analysis, domain generalization and other research areas. -->
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *liusihao[at]stu[dot]hit[dot]edu[dot]cn*.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *lshtoumakazusa[at]163[dot]com*.
 
 ## Academic Background
 
@@ -44,8 +46,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
+- **Dec 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is selected as <font color="red">(Oral) </font> in ICSOC-2024, and i will give a presentation in Tunis, Tunisia!!! HaHa!
+- **Nov 2024 :**  I join **CAMEL-AI** as an intern! Adviser: Dr.Guohao Li
 - **Sept 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is accepted by ICSOC 2024 (Top conference in service computing, 15%)
-- **Jul 2024 :**  I join **CAMEL-AI** as an intern! Adviser: Dr.Guohao Li
 - **Jun 2024 :**  I join **KAUST** as an intern! Adviser: Dr.Yibo Yang, Prof. Bernard Ghanem
 - **Jun 2024 :**  I create this website ！
 
