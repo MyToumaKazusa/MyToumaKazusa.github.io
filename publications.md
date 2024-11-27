@@ -35,12 +35,12 @@ Lastest Update: 22nd Sept 2024
 
 ## Conference Paper
 - GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning. <br>**Sihao Liu**, Mingyi Liu, Tianyu Jiang, Shuang Yu, Hanchuan Xu and Zhongjie Wang~<br>
-**Accepted** in the conference International Conference on Service-Oriented Computing (**ICSOC**  Top conference in serveice computing)
+**Accepted** in the conference International Conference on Service-Oriented Computing ([**ICSOC**](https://icsoc2024.redcad.tn/)  Top conference in service computing) <font color="red">(Oral) </font>
+
 ## Under review paper
+- Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization <br>**Sihao Liu**, Yibo Yang, Xiaojie Li, David A.Clifton, Bernard Ghanem <br> Submitted to CVPR-2025 (Top conference in computer vision)
 
 
-<!-- ## Working paper
-- Some projects about XAI/LLM will be submitted to NIPS2024/EMNLP2024/ICLR2024 -->
 
 **If you want to collaborate on the project, please email me.**
 
@@ -50,21 +50,31 @@ Lastest Update: 22nd Sept 2024
 
 #  RESEARCH EXPERIENCES
 
+## CAMEL-AI
+
+2024.11 --- Present
+
+Reserch Intern, Advisor: Dr. [Guohao Li](https://ghli.org/)
+
+Research on Multi-Agent System
+- weekly Meeting
+- To be continual
+
 ## Image and Video Understanding Lab (IVUL)
 
 2024.6 --- Present
 
-Intern, Advisor: Research Scientist.Yibo Yang ----King Abdullah University of Science and Technology(KAUST)
+Reserch Intern, Advisor: Research Scientist.[Yibo Yang](https://iboing.github.io/), Prof.[Bernard Ghanem](https://www.bernardghanem.com/) ----King Abdullah University of Science and Technology(KAUST)
 
 Research on online continual learning
 - To design an effective algorithm for online incremental learning
-- Plan to submit to CVPR 2025 (Top conference in the field of computer vision)
+- Submitted to CVPR 2025 (Top conference in the field of computer vision)
 
 ## Research Center of Intelligent Computing for Enterprises & Services (ICES)
 
 2024.1 --- Present
 
-Intern, Advisor: Prof.Mingyi Liu, Prof.Zhongjie  Wang ----Harbin Institute of Technology(HIT)
+Intern, Advisor: Prof.[Mingyi Liu](https://homepage.hit.edu.cn/lmy), Prof.[Zhongjie Wang](https://homepage.hit.edu.cn/rainy) ----Harbin Institute of Technology(HIT)
 
 Research on recommendation algorithm
 - Designed a service recommendation algorithm using graph structure learning
@@ -76,7 +86,7 @@ service computing)
 
 2022.9 --- Present
 
-Intern, Advisor: Prof. Xiaopeng Fan ----HIT
+Intern, Advisor: Prof. [Xiaopeng Fan](https://homepage.hit.edu.cn/xiaopengfan) ----HIT
 
 Virtual reality related projects
 - Constructed a 3d virtual campus through scanning and reconstruction
@@ -88,7 +98,7 @@ Virtual reality related projects
 
 2023.7 --- 2024.1
 
-Intern, Advisor: Prof. Kui Jiang ----HIT
+Intern, Advisor: Prof. [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) ----HIT
 
 Research on 3D Reconstruction
 - Research on NeRF and 3d Gauss was done

@@ -12,13 +12,15 @@ layout: page
 
 # About Me
 
-Here is **Sihao Liu (刘思颢)**.( You can call me Daniel)
+Here is **Sihao Liu (刘思颢)**.( You can call me Touma)
 
 I am a junior student major in the Artificial Intelligence([**School of Future Technology**](https://future.hit.edu.cn/)), [**Harbin Institute of Technology**](http://www.hit.edu.cn/) in China, supervised by Prof. [**Xiaopeng Fan**](https://homepage.hit.edu.cn/xiaopengfan) and Prof. [**Mingyi Liu**](https://homepage.hit.edu.cn/lmy).
 
 ## Research Interests
 
 My main interest is in the practical problems of **Artificial Intelligence (AI)** and innovative technologies related to **Extended Reality (XR)**. I believe that deep learning can bring technological innovation to the rapid development of various industries in the future and XR technology will be the cornerstone of human life in the future. Based on this, I have studied related technologies including **Graph neural network, Service Recommendation, 3D Reconstruction and Virtual Reality**. I am committed to contributing to meaningful causes and benefits society by developing practical innovative solutions that combine deep learning techniques.
+
+Key Word: **Deep Learning**, **Continual Learning**, **LLM**, **GNN**, **XR**
 
 <!-- My research interests are **Explainable AI (XAI)** and **Privacy-preserving AI**. Specifically, my research goal is to build faithful XAI systems which are easily understood by users and are robust in various environments (e.g. **XAI4LLM, XAI4NLP, XAI4MM, XAI4CV, XAI4Security** and so on). I am also interested in applying the XAI to real-world scenarios (e.g. optical systems, recommender systems, and traffic forecasting etc.). At the same time, I am also very interested in the research of AI in the field of **astronomy, environmental science, materials and medicine**. -->
 
@@ -43,8 +45,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## News and Update
 
 - **Sept 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is accepted by ICSOC 2024 (Top conference in service computing, 15%)
-- **Jul 2024 :**  I join [**CAMEL-AI**] as an intern! Adviser: Dr.Guohao Li
-- **Jun 2024 :**  I join [**KAUST**] as an intern! Adviser: Dr.Yibo Yang, Prof. Bernard Ghanem
+- **Jul 2024 :**  I join **CAMEL-AI** as an intern! Adviser: Dr.Guohao Li
+- **Jun 2024 :**  I join **KAUST** as an intern! Adviser: Dr.Yibo Yang, Prof. Bernard Ghanem
 - **Jun 2024 :**  I create this website ！
 
 
