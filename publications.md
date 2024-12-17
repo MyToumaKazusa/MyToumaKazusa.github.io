@@ -37,7 +37,7 @@ Lastest Update: 27th Nov 2024
 - [GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning](https://link.springer.com/book/10.1007/978-981-96-0808-9). <br>**Sihao Liu**, Mingyi Liu, Tianyu Jiang, Shuang Yu, Hanchuan Xu and Zhongjie Wang~<br>
 **Accepted** in the conference International Conference on Service-Oriented Computing ([**ICSOC**](https://icsoc2024.redcad.tn/)  Top conference in service computing) <font color="red">(Oral) </font>
 
-it can be accessed at [here](https://link.springer.com/book/10.1007/978-981-96-0808-9) now!(see pages 195!)
+it can be accessed at [here](https://link.springer.com/chapter/10.1007/978-981-96-0808-9_14) now!
 
 ## Under review paper
 - Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization <br>**Sihao Liu**, Yibo Yang, Xiaojie Li, David A.Clifton, Bernard Ghanem <br> Submitted to CVPR-2025 (Top conference in computer vision)
