@@ -40,7 +40,7 @@ Lastest Update: 27th Nov 2024
 it can be accessed at [here](https://link.springer.com/chapter/10.1007/978-981-96-0808-9_14) now!
 
 ## Under review paper
-- Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization <br>**Sihao Liu**, Yibo Yang, Xiaojie Li, David A.Clifton, Bernard Ghanem <br> Submitted to CVPR-2025 (Top conference in computer vision)
+- [Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization](https://github.com/MyToumaKazusa/MyToumaKazusa.github.io/blob/main/CVPR.pdf). <br>**Sihao Liu**, Yibo Yang, Xiaojie Li, David A.Clifton, Bernard Ghanem <br> Submitted to CVPR-2025 (Top conference in computer vision)
 
 
 
