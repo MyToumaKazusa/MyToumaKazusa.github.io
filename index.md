@@ -46,6 +46,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News and Update
 
+- **Feb 2025 :** My paper "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization" is accepted in **CVPR-2025** !!! My first CVPR !!!
 - **Dec 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is selected as <font color="red">(Oral) </font> in ICSOC-2024, and i will give a presentation in Tunis, Tunisia!!! HaHa!
 - **Nov 2024 :**  I join **CAMEL-AI** as an intern! Adviser: Dr.Guohao Li
 - **Sept 2024 :** My paper "GSL-Mash: Enhancing Mashup Creation Service Recommendations through Graph Structure Learning" is accepted by ICSOC 2024 (Top conference in service computing, 15%)
