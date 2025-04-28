@@ -8,7 +8,7 @@ layout: page
 <!-- 
 <img src="./zzz.jpg" class="floatpic" width="345" height="450">-->
 
-<img src="./lsh_big.png" class="floatpic" width="345" height="450">
+<img src="./lsh_big.JPG" class="floatpic" width="345" height="450">
 
 # About Me
 
